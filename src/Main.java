@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("GIT Develop");
+
         System.out.println("Im happy");
         System.out.println("Nice");
         sayHello();
